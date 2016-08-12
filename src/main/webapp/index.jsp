@@ -2,7 +2,8 @@
 <body>
 <h2>Hello World!</h2>
 <p>
-	Hi :) - cheng
+	Hi :)
+	Second commit
 </p>
 </body>
 </html>
